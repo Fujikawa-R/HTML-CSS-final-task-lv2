@@ -67,4 +67,5 @@ A/Bともに、授業数が2コマ足りないので、2コマ分は調整期間
 ## 変更点
 - 各ページにリンクを設定
 - music-artist-list の "全て" ボタンの修正
-- 新規登録ページを作成
+- 新規登録ページ(music-signup-page.html)を作成
+- アーティスト詳細ページ(music-artist-detail.html)を作成。
