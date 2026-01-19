@@ -71,3 +71,4 @@ A/Bともに、授業数が2コマ足りないので、2コマ分は調整期間
 - アーティスト詳細ページ(music-artist-detail.html)を作成。
 - チケット選択画面(music-select-ticket.html)を作成。
 - index.html の開催予定イベントのスマホ版レイアウト変更(1列→2列)
+- 
